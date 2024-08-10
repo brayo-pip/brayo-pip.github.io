@@ -6,21 +6,7 @@
     <description>Recent content on Brayo&#39;s</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 19:35:09 +0300</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 10 Aug 2024 19:35:09 +0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>I am software developer, currently working on ActivityWatch. I am passionate about quantified-self, machine learning, open-source software, speedcubing and so much more.</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 09 Aug 2024 11:05:05 +0300</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Hello, World!&#xA;Just a placeholder before the real content comes.</description>
-    </item>
   </channel>
 </rss>
