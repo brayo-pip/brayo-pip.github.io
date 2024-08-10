@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Brayo's"
+theme = 'paper'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
