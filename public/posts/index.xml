@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Brayo&#39;s</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 11:05:05 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 09 Aug 2024 11:05:05 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Hello, World!&#xA;Just a placeholder before the real content comes.</description>
+    </item>
   </channel>
 </rss>

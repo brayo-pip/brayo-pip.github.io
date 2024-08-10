@@ -1,6 +1,6 @@
 +++
-title = 'About Me'
-date = 2024-08-09T18:59:50+03:00
+title = 'About'
+date = 2024-08-10T19:35:09+03:00
 draft = true
 +++
 

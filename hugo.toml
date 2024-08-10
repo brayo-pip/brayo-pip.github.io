@@ -12,5 +12,5 @@ theme = 'paper'
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
